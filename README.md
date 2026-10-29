@@ -1,2 +1,2 @@
-# domino
+# Domino
 Domino computation related stuff
